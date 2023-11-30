@@ -10,7 +10,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // strakhero
 // community likes u 
-    #[event] // i ll be rich
+    #[event] // i ll be rich  // i ll have a lot of money
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop is coming soon
     #[external]
