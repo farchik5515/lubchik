@@ -8,9 +8,8 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // strakhero
 
-    #[event]
+    #[event] // i ll be rich
     fn Hello(from: ContractAddress, value: felt252) {}
-
 
     #[external]
     fn Say_Hello(message: felt252) {
