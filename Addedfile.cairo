@@ -10,7 +10,7 @@ mod HelloStarknet {
 
     #[event] // i ll be rich
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// drop is coming soon
     #[external]
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
