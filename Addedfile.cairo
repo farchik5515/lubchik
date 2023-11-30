@@ -1,7 +1,9 @@
 /*
 * Addedfile.cairo
 */
-
+/*
+*Starknet is better than LZ0
+/*
 #[contract]
 mod HelloStarknet {
     use starknet::get_caller_address;
