@@ -9,7 +9,7 @@ mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 // strakhero
-// community likes u 
+// community likes u // orochimaru
     #[event] // i ll be rich  // i ll have a lot of money
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop is coming
