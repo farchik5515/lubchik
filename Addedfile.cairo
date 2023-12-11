@@ -12,7 +12,7 @@ mod HelloStarknet {
 // community likes u 
     #[event] // i ll be rich  // i ll have a lot of money
     fn Hello(from: ContractAddress, value: felt252) {}
-// drop is coming soon
+// drop is coming
     #[external]  // i like Bravoos
     fn Say_Hello(message: felt252) {
         let caller = get_caller_address();
