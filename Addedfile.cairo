@@ -2,7 +2,7 @@
 * Addedfile.cairo
 */
 /*
-*Starknet is better than LZ0
+*Starknet is better than all projects
 /*
 #[contract]
 mod HelloStarknet {
